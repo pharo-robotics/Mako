@@ -1,0 +1,18 @@
+{
+	"category" : "MakoTesting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"accumulator",
+		"numberGenerator",
+		"tracker",
+		"routes",
+		"application" ],
+	"name" : "MakoTestConnectedAccumulator",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

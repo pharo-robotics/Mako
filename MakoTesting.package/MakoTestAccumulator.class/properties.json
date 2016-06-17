@@ -1,0 +1,15 @@
+{
+	"category" : "MakoTesting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"accumulator",
+		"application" ],
+	"name" : "MakoTestAccumulator",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

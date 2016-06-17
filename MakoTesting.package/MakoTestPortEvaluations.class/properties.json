@@ -1,0 +1,17 @@
+{
+	"category" : "MakoTesting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"application",
+		"port",
+		"writtenPort",
+		"newValue" ],
+	"name" : "MakoTestPortEvaluations",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

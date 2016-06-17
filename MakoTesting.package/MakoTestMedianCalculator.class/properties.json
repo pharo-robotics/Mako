@@ -1,0 +1,15 @@
+{
+	"category" : "MakoTesting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"application",
+		"calculator" ],
+	"name" : "MakoTestMedianCalculator",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

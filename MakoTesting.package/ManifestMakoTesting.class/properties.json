@@ -1,0 +1,14 @@
+{
+	"category" : "MakoTesting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ManifestMakoTesting",
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }

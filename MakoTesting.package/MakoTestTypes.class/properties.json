@@ -1,0 +1,19 @@
+{
+	"category" : "MakoTesting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"application",
+		"portFrom",
+		"portTo",
+		"accumulator",
+		"tracking",
+		"tracker" ],
+	"name" : "MakoTestTypes",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

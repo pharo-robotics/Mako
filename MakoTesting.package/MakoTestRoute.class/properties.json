@@ -1,0 +1,19 @@
+{
+	"category" : "MakoTesting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"route",
+		"application",
+		"portFrom",
+		"portTo",
+		"accumulator",
+		"numberGenerator" ],
+	"name" : "MakoTestRoute",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
