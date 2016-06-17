@@ -1,0 +1,15 @@
+{
+	"category" : "Mako-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 6/9/2016 15:52",
+	"instvars" : [
+		"sync",
+		"blocks" ],
+	"name" : "MakoSyncRunner",
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

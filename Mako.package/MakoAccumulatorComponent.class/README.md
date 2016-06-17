@@ -1,0 +1,1 @@
+A MakoAccumulatorComponent is a basic example component that accumulates the readed values through the input port and transmit the result of accumulaton to the outgoing port.

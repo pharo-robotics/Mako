@@ -1,0 +1,1 @@
+This component encapsulates a configurable xmlrpc server, and it provides as output a Request

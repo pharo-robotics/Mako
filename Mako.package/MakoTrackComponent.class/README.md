@@ -1,0 +1,1 @@
+A MakoTrackComponent is   a basic example component that saves each of the received values into a local variable.

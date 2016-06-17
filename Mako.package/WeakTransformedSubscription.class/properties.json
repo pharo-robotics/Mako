@@ -1,0 +1,14 @@
+{
+	"category" : "Mako-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 1/18/2016 10:42",
+	"instvars" : [
+		"transformations" ],
+	"name" : "WeakTransformedSubscription",
+	"pools" : [
+		 ],
+	"super" : "WeakAnnouncementSubscription",
+	"type" : "weak" }

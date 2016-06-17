@@ -1,0 +1,1 @@
+A MakoTranscriptComponent is  a basic example component that shows the readed values through the input port through a Transcript object.

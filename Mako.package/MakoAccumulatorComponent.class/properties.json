@@ -1,0 +1,16 @@
+{
+	"category" : "Mako-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 4/13/2015 14:23",
+	"instvars" : [
+		"accumulator",
+		"incoming",
+		"outgoing" ],
+	"name" : "MakoAccumulatorComponent",
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

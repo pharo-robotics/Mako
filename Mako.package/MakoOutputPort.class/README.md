@@ -1,0 +1,1 @@
+A MakoOutputPort is specific port, just for writing

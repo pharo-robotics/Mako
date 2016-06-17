@@ -1,0 +1,1 @@
+During the definition of a Mako component we need to define ports, but what really happens is that we define MetaPorts. This meta ports are related with the construction of a port during the instantiation of a component object. 

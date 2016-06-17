@@ -1,0 +1,15 @@
+{
+	"category" : "Mako-XMLRPC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 1/18/2016 16:07",
+	"instvars" : [
+		"sync",
+		"request" ],
+	"name" : "MakoXMLRPCClientExample",
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

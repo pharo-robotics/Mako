@@ -1,0 +1,1 @@
+A MakoPort is a real port, instantiated into a configured component by a meta port. Ports are related to an announcer and a value 

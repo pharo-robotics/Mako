@@ -1,0 +1,1 @@
+Adhoc component for testing arrayed types.

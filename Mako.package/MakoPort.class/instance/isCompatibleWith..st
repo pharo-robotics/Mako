@@ -1,0 +1,3 @@
+testing
+isCompatibleWith: anOtherPort
+	self subclassResponsibility

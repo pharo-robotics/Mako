@@ -1,0 +1,1 @@
+A MakoNumberGeneratorComponent is number generator component done for testing

@@ -1,0 +1,15 @@
+{
+	"category" : "Mako-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 2/22/2016 11:07",
+	"instvars" : [
+		"incoming",
+		"outgoing" ],
+	"name" : "MakoMedianCalculator",
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

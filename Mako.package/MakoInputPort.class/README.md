@@ -1,0 +1,1 @@
+A MakoInputPort is specific port, just for reading

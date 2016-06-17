@@ -1,0 +1,14 @@
+{
+	"category" : "Mako",
+	"classinstvars" : [
+		"metaports" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 3/20/2015 16:55",
+	"instvars" : [
+		 ],
+	"name" : "Mako",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
