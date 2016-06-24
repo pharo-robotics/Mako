@@ -1,3 +1,5 @@
 convenience
 sync
-	^ self components do: #sync
+	| stamp |
+	stamp := DateAndTime now.
+	^ self components do: [ :c | c doSync: stamp ]

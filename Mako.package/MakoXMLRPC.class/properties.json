@@ -1,17 +1,16 @@
 {
-	"category" : "Mako-XMLRPC",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 1/18/2016 10:59",
+	"super" : "Mako",
+	"category" : "Mako-XMLRPC",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"xmlrpc",
 		"port",
 		"running",
-		"request" ],
+		"request"
+	],
 	"name" : "MakoXMLRPC",
-	"pools" : [
-		 ],
-	"super" : "Mako",
-	"type" : "normal" }
+	"type" : "normal"
+}

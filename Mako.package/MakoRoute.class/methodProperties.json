@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"from:port:" : " 6/23/2016 17:01:07",
+		"isRelatedWith:" : " 6/23/2016 17:01:07",
+		"portFrom" : " 6/23/2016 17:01:07",
+		"noteWrittenPort:newValue:" : " 6/23/2016 17:01:07",
+		"to:port:" : " 6/23/2016 17:01:07",
+		"printOn:" : " 6/23/2016 17:01:07",
+		"beRemovedFrom:" : " 6/23/2016 17:01:07",
+		"componentFrom" : " 6/23/2016 17:01:07",
+		"application:" : " 6/23/2016 17:01:07",
+		"componentTo" : " 6/23/2016 17:01:07",
+		"portTo" : " 6/23/2016 17:01:07"
+	},
+	"class" : {
+		"from:port:to:port:" : " 6/23/2016 17:01:07"
+	}
+}

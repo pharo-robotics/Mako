@@ -1,16 +1,15 @@
 {
-	"category" : "Mako-XMLRPC",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 1/18/2016 14:45",
+	"super" : "Object",
+	"category" : "Mako-XMLRPC",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"request",
 		"response",
-		"responsePort" ],
+		"responsePort"
+	],
 	"name" : "MXRequestResponse",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

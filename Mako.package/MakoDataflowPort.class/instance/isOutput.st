@@ -1,3 +1,3 @@
 testing
 isOutput
-	^ false
+	^ self class isOutput 

@@ -1,3 +1,3 @@
 events-registering
 unsubscribeFromAnnouncement: aTargetObject
-	^ announcer unsubscribe: aTargetObject 
+	^ self announcer unsubscribe: aTargetObject 

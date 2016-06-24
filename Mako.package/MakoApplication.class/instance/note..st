@@ -1,3 +1,3 @@
 events-registering
 note: anAnnouncement
-	announcer announce: anAnnouncement 
+	self announcer announce: anAnnouncement 

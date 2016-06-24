@@ -1,16 +1,15 @@
 {
-	"category" : "Mako-Announcements",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 4/13/2015 14:21",
+	"super" : "Announcement",
+	"category" : "Mako-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"port",
 		"oldValue",
-		"newValue" ],
+		"newValue"
+	],
 	"name" : "MakoAnnouncementWrittenPort",
-	"pools" : [
-		 ],
-	"super" : "Announcement",
-	"type" : "normal" }
+	"type" : "normal"
+}

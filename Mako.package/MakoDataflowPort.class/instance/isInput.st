@@ -1,3 +1,3 @@
 testing
 isInput
-	^ false
+	^ self class isInput

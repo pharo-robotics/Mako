@@ -1,14 +1,13 @@
 {
-	"category" : "Mako-Example",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 4/13/2015 14:25",
-	"instvars" : [
-		"incoming" ],
-	"name" : "MakoTranscriptComponent",
-	"pools" : [
-		 ],
 	"super" : "Mako",
-	"type" : "normal" }
+	"category" : "Mako-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"incoming"
+	],
+	"name" : "MakoTranscriptComponent",
+	"type" : "normal"
+}

@@ -1,14 +1,13 @@
 {
-	"category" : "Mako",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/20/2015 16:58",
-	"instvars" : [
-		"onSync" ],
-	"name" : "MakoMetaSyncPort",
-	"pools" : [
-		 ],
 	"super" : "MakoMetaPort",
-	"type" : "normal" }
+	"category" : "Mako",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"onSync"
+	],
+	"name" : "MakoMetaSyncPort",
+	"type" : "normal"
+}

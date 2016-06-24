@@ -1,17 +1,16 @@
 {
-	"category" : "Mako",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/23/2015 18:13",
+	"super" : "MakoPort",
+	"category" : "Mako",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"value",
 		"lastValue",
 		"size",
-		"blocking" ],
+		"blocking"
+	],
 	"name" : "MakoDataflowPort",
-	"pools" : [
-		 ],
-	"super" : "MakoPort",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,14 +1,17 @@
 {
+	"commentStamp" : "SantiagoBragagnolo 3/20/2015 16:55",
+	"super" : "Object",
 	"category" : "Mako",
 	"classinstvars" : [
-		"metaports" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "SantiagoBragagnolo 3/20/2015 16:55",
+		"metaports",
+		"onSync"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
-		 ],
+		"privateVariableShouldSync",
+		"privateVariableSymbolToSync"
+	],
 	"name" : "Mako",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

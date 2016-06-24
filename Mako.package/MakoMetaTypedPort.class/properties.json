@@ -1,16 +1,15 @@
 {
-	"category" : "Mako",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/20/2015 16:59",
+	"super" : "MakoMetaPort",
+	"category" : "Mako",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"type",
 		"size",
-		"isBlocking" ],
+		"isBlocking"
+	],
 	"name" : "MakoMetaTypedPort",
-	"pools" : [
-		 ],
-	"super" : "MakoMetaPort",
-	"type" : "normal" }
+	"type" : "normal"
+}

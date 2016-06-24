@@ -1,0 +1,8 @@
+{
+	"instance" : { },
+	"class" : {
+		"ruleClassNotReferencedRuleV1FalsePositive" : " 6/23/2016 17:01:07",
+		"ruleSubclassResponsibilityNotDefinedRuleV1FalsePositive" : " 6/23/2016 17:01:07",
+		"ruleVariableReferencedOnceRuleV1FalsePositive" : " 6/23/2016 17:01:07"
+	}
+}

@@ -1,15 +1,14 @@
 {
-	"category" : "Mako-Example",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/20/2015 17:38",
+	"super" : "Mako",
+	"category" : "Mako-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"lastGeneratedNumber",
-		"outgoing" ],
+		"outgoing"
+	],
 	"name" : "MakoNumberGeneratorComponent",
-	"pools" : [
-		 ],
-	"super" : "Mako",
-	"type" : "normal" }
+	"type" : "normal"
+}

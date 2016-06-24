@@ -1,15 +1,14 @@
 {
-	"category" : "Mako-Example",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 4/13/2015 14:24",
+	"super" : "Mako",
+	"category" : "Mako-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"trackedValues",
-		"incoming" ],
+		"incoming"
+	],
 	"name" : "MakoTrackComponent",
-	"pools" : [
-		 ],
-	"super" : "Mako",
-	"type" : "normal" }
+	"type" : "normal"
+}

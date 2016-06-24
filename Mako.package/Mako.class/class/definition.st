@@ -11,8 +11,20 @@ definition
 	aStream
 		cr;
 		tab;
-		nextPutAll: 'ports:';
-		nextPutAll: self portsString.
+		nextPutAll: 'input:';
+		nextPutAll: self inputPortsString.
+	aStream
+		cr;
+		tab;
+		nextPutAll: 'output:';
+		nextPutAll: self outputPortsString.
+	self onSync
+		ifNotNil: [ :message | 
+			aStream
+				cr;
+				tab;
+				nextPutAll: 'onSync: #';
+				nextPutAll: message ].
 	aStream
 		cr;
 		tab;
