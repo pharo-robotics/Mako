@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 2/22/2016 11:07",
-	"super" : "Mako",
 	"category" : "Mako-Example",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 2/22/2016 11:07",
 	"instvars" : [
 		"incoming",
-		"outgoing"
-	],
+		"outgoing" ],
 	"name" : "MakoMedianCalculator",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

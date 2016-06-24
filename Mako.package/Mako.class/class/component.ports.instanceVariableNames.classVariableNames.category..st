@@ -1,10 +1,8 @@
 component creation
 component: aSubclassSymbol ports: aCollection instanceVariableNames: instVarNames classVariableNames: classVarNames category: aCategorySymbol
 	| class |
-	self deprecated: 'Use input: output: instead ' .
 	aSubclassSymbol
-		asClassIfPresent: [ 
-			aSubclassSymbol asClass superclass = self
+		asClassIfPresent: [ aSubclassSymbol asClass superclass = self
 				ifTrue: [ self installMetaports: aCollection into: aSubclassSymbol asClass ] ].
 	class := self
 		subclass: aSubclassSymbol

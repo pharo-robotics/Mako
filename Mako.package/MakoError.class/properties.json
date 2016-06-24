@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 4/13/2015 15:09",
-	"super" : "Error",
 	"category" : "Mako",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 4/13/2015 15:09",
+	"instvars" : [
+		 ],
 	"name" : "MakoError",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 2/22/2016 11:22",
-	"super" : "Object",
 	"category" : "Mako",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 2/22/2016 11:22",
 	"instvars" : [
 		"isCollection",
-		"typeName"
-	],
+		"typeName" ],
 	"name" : "MakoType",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 6/9/2016 15:52",
-	"super" : "Mako",
 	"category" : "Mako-Example",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 6/9/2016 15:52",
 	"instvars" : [
-		"blocks"
-	],
+		"blocks" ],
 	"name" : "MakoSyncRunner",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

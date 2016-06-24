@@ -1,0 +1,3 @@
+private-component
+encodedSyncMessage
+	^ nil

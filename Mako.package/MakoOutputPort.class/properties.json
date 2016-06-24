@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 3/20/2015 17:01",
-	"super" : "MakoDataflowPort",
 	"category" : "Mako",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 3/20/2015 17:01",
+	"instvars" : [
+		 ],
 	"name" : "MakoOutputPort",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MakoDataflowPort",
+	"type" : "normal" }

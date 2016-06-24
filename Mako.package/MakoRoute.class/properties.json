@@ -1,16 +1,17 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 3/20/2015 17:04",
-	"super" : "Object",
 	"category" : "Mako",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 3/20/2015 17:04",
 	"instvars" : [
 		"from",
 		"fromPort",
 		"to",
-		"toPort"
-	],
+		"toPort" ],
 	"name" : "MakoRoute",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

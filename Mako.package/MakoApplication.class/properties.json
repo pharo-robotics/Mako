@@ -1,15 +1,16 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 3/20/2015 16:56",
-	"super" : "Object",
 	"category" : "Mako",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 3/20/2015 16:56",
 	"instvars" : [
 		"announcer",
 		"routes",
-		"components"
-	],
+		"components" ],
 	"name" : "MakoApplication",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

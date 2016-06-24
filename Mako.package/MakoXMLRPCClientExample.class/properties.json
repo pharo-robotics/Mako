@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 1/18/2016 16:07",
-	"super" : "Mako",
 	"category" : "Mako-XMLRPC",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 1/18/2016 16:07",
 	"instvars" : [
-		"request"
-	],
+		"request" ],
 	"name" : "MakoXMLRPCClientExample",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Mako",
+	"type" : "normal" }

@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "SantiagoBragagnolo 4/13/2015 14:16",
-	"super" : "Announcement",
 	"category" : "Mako-Announcements",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 4/13/2015 14:16",
+	"instvars" : [
+		 ],
 	"name" : "MakoSyncAnnouncement",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }
