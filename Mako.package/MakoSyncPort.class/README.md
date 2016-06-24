@@ -1,1 +1,0 @@
-A MakoSyncPort is specific port, just for sync

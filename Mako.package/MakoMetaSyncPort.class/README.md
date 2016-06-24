@@ -1,1 +1,0 @@
-A MakoMetaSyncPort is specific kind of meta port for sync port. Sync port are not typed, the information that comes is not really important, but the idea of receiving a pulse of sync. 
