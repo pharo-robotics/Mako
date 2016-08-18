@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"announcer" : " 8/17/2016 16:26:23",
+		"components" : " 8/17/2016 16:26:23",
+		"configure" : " 8/17/2016 16:26:23",
+		"destroy" : " 8/17/2016 16:26:23",
+		"initialize" : " 8/17/2016 16:26:23",
+		"invalidate" : " 8/17/2016 16:26:23",
+		"note:" : " 8/17/2016 16:26:23",
+		"registerComponent:" : " 8/17/2016 16:26:23",
+		"registerRoute:" : " 8/17/2016 16:26:23",
+		"removeComponent:" : " 8/17/2016 16:26:23",
+		"routeFrom:port:to:port:" : " 8/17/2016 16:26:23",
+		"routeIsRegistered:" : " 8/17/2016 16:26:23",
+		"sync" : "Santiago 8/17/2016 16:57",
+		"tick" : " 8/17/2016 16:26:23",
+		"unsubscribeFromAnnouncement:" : " 8/17/2016 16:26:23",
+		"when:reduceFromAnnouncement:andSend:to:" : " 8/17/2016 16:26:23",
+		"when:send:to:" : " 8/17/2016 16:26:23",
+		"when:takeFromAnnouncement:andSend:to:" : " 8/17/2016 16:26:23" } }
