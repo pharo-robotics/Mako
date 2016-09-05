@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"DevelopmentSupport" : " 9/5/2016 11:17:45",
+		"baseConfigurationClassIfAbsent:" : " 9/5/2016 11:17:45",
+		"catalogContactInfo" : " 9/5/2016 11:17:45",
+		"catalogDescription" : " 9/5/2016 11:17:45",
+		"catalogKeywords" : " 9/5/2016 11:17:45",
+		"ensureMetacello" : " 9/5/2016 11:17:45",
+		"ensureMetacelloBaseConfiguration" : " 9/5/2016 11:17:45",
+		"isMetacelloConfig" : " 9/5/2016 11:17:45",
+		"load" : " 9/5/2016 11:17:45",
+		"loadBleedingEdge" : " 9/5/2016 11:17:45",
+		"loadDevelopment" : " 9/5/2016 11:17:45",
+		"project" : " 9/5/2016 11:17:45",
+		"validate" : " 9/5/2016 11:17:45" },
+	"instance" : {
+		"baseline:" : "SantiagoBragagnolo 9/5/2016 11:50" } }
