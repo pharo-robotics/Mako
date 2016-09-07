@@ -1,0 +1,14 @@
+{
+	"category" : "MakoTesting-Collections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"queue" ],
+	"name" : "MakoSharedFixedSizeQueueTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : " 9/5/2016 15:17:33",
+		"testAccumulatorIs0" : " 9/5/2016 15:17:33",
+		"testTrackIsEmpty" : " 9/5/2016 15:17:33",
+		"testTrackIsNotEmptyAfterAccumulatorSyncsWithoutValue" : " 9/5/2016 15:17:33",
+		"testTrackerHasOneValueAndItIs0AfterAccumulatorSyncsWithoutValue" : " 9/5/2016 15:17:33",
+		"testTrackerHasOneValueAndItIsTheGivenByGenerator" : " 9/5/2016 15:17:33",
+		"testTrackerHasTwoValuesTheFirstlyGivenAndTheAccumulation" : " 9/5/2016 15:17:33",
+		"testTwoGeneratedValuesIntoNonBufferedPort" : " 9/5/2016 15:17:33" } }

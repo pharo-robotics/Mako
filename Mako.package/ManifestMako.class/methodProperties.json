@@ -1,7 +1,7 @@
 {
 	"class" : {
-		"ruleClassNotReferencedRuleV1FalsePositive" : " 8/17/2016 16:26:23",
-		"ruleSubclassResponsibilityNotDefinedRuleV1FalsePositive" : " 8/17/2016 16:26:23",
-		"ruleVariableReferencedOnceRuleV1FalsePositive" : " 8/17/2016 16:26:23" },
+		"ruleClassNotReferencedRuleV1FalsePositive" : "8/17/2016 16:26:23",
+		"ruleSubclassResponsibilityNotDefinedRuleV1FalsePositive" : "8/17/2016 16:26:23",
+		"ruleVariableReferencedOnceRuleV1FalsePositive" : "8/17/2016 16:26:23" },
 	"instance" : {
 		 } }

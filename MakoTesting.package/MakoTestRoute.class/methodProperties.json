@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : " 9/5/2016 15:17:33",
+		"testRouteDoesNotRespondsToMessageSendWhenDifferentPort" : " 9/5/2016 15:17:33",
+		"testRouteHadBeenRegistered" : " 9/5/2016 15:17:33",
+		"testRouteRespondsToMessageSendWhenProperPort" : " 9/5/2016 15:17:33" } }

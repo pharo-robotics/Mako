@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : " 9/5/2016 15:17:33",
+		"testAccumulates" : " 9/5/2016 15:17:33",
+		"testAccumulatesZeroByDefault" : " 9/5/2016 15:17:33",
+		"testAccumulatorOutgoingportIsConsumed" : " 9/5/2016 15:17:33" } }

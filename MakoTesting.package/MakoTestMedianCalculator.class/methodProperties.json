@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : " 9/5/2016 15:17:33",
+		"testAccumulatorOutgoingportIsConsumed" : " 9/5/2016 15:17:33",
+		"testCalculates" : " 9/5/2016 15:17:33",
+		"testPortAcceptsAnArrayOfInts" : " 9/5/2016 15:17:33",
+		"testPortRejectsAnArrayOfFloats" : " 9/5/2016 15:17:33",
+		"testPortRejectsAnArrayOfObjects" : " 9/5/2016 15:17:33" } }
