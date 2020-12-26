@@ -1,14 +1,11 @@
 {
-	"category" : "BaselineOfMako",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "BaselineOfMako",
-	"pools" : [
-		 ],
 	"super" : "BaselineOf",
-	"type" : "normal" }
+	"category" : "BaselineOfMako",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfMako",
+	"type" : "normal"
+}

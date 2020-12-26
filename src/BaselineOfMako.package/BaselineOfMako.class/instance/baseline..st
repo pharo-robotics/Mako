@@ -3,7 +3,7 @@ baseline: spec
 	<baseline>
 	spec
 		for: #common
-		do: [ spec baseline: 'TaskIt' with: [ spec repository: 'github://sbragagnolo/taskit' ].
+		do: [
 			spec
-				package: #Mako with: [ spec requires: #('TaskIt') ];
+				package: #Mako;
 				package: #MakoTesting with: [ spec requires: #(#Mako) ] ]
